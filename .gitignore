@@ -1,0 +1,14 @@
+codeRecipes/SData/documents
+codeRecipes/SData/vectors
+codeRecipes/DBrief/documents
+codeRecipes/DBrief/vectors
+codeRecipes/neurips/attachments/
+codeRecipes/neurips/documents/
+codeRecipes/neurips/vectors/
+codeRecipes/old/
+**/.DS_Store
+.vscode
+~$*
+results.pkl
+.venv
+*Zone.Identifier
